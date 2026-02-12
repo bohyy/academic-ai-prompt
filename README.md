@@ -91,10 +91,7 @@
 📚 学术研究 AI Prompt 完整合集/
 
 ├─ 📖 快速开始
-│  ├─ README.md / README_最终版.md       (你在这里)
-│  ├─ ⭐_使用说明_必读.md                 (5分钟快速指南)
-│  ├─ README_使用指引.md                  (快速导航)
-│  └─ 📋_文件清单.md                      (完整清单)
+│  ├─ README.md       (你在这里)
 │
 ├─ 🎯 论文选题系列
 │  ├─ 论文选题AI提示词库.md               (20+个选题Prompt)
@@ -111,20 +108,11 @@
 ├─ ✍️ 顶刊写作系列 ⭐ v2.1升级
 │  └─ 顶刊论文写作AI提示词库.md           (34+个写作Prompt，新增9个文本优化)
 │
-├─ 📚 导航和索引
-│  ├─ 完整Prompt库总索引.md               (完整索引和导航)
-│  ├─ 🆕_最新更新说明.md                  (升级说明)
-│  └─ ✨_项目完成总结.md                  (完成总结)
-│
 ├─ 🎨 可视化资源
 │  ├─ flowchart_topic_selection.png       (Miffy流程图1)
 │  ├─ flowchart_paper_finding.png         (Miffy流程图2)
 │  └─ flowchart_literature_review.png     (Miffy流程图3)
-│
-└─ 📋 其他资源
-   ├─ 学术号4周发布计划.md                (社交媒体运营计划)
-   ├─ 完整使用指南.md                     (详细使用说明)
-   └─ GitHub部署指南.md                  (部署步骤)
+
 ```
 
 **总计**：89+个Prompt | 165,000+字 | 3个流程图 | 1个Excel工具 | 3个完整模板
